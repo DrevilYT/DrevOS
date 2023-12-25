@@ -16,5 +16,5 @@ A modification for Windows that adds a lot of unique and useful tools, makes Win
 
 ## Credits
 - [DrevilYT](https://github.com/drevilyt) - Making DrevOS and some of the tools.
-- [Chris Titus tech](https://github.com/ChrisTitusTech) - Making the Chris Titus Tech's Windows Utility tool.
+- [Chris Titus Tech](https://github.com/ChrisTitusTech) - Making the Chris Titus Tech's Windows Utility tool.
 - [Massgravel](https://github.com/massgravel) - Making the Windows Activation Tool.
