@@ -13,4 +13,4 @@ Link: https://github.com/DrevilYT/DrevOS/releases/tag/v1.4
 - Drev's Upgrade Script: https://github.com/DrevilYT/UpgradeScript 
 - Chris Titus Tech's Windows Utility: https://github.com/ChrisTitusTech/winutil
 - Custom Cursors For WIndows: https://github.com/DrevilYT/Custom-Cursors-For-Windows
-- DrevOS Uninstaller: https://github.com/DrevilYT/DrevOS/main/uninstall
+- [DrevOS Uninstaller](https://github.com/DrevilYT/DrevOS/tree/main/uninstall)
