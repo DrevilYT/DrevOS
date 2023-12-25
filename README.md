@@ -13,3 +13,8 @@ A modification for Windows that adds a lot of unique and useful tools, makes Win
 - [Chris Titus Tech's Windows Utility](https://github.com/ChrisTitusTech/winutil)
 - [Custom Cursors For WIndows](https://github.com/DrevilYT/Custom-Cursors-For-Windows)
 - [DrevOS Uninstaller](https://github.com/DrevilYT/DrevOS/tree/main/uninstall)
+
+## Credits
+- [DrevilYT](https://github.com/drevilyt): Making DrevOS and some of the tools.
+- [Chris Titus tech](https://github.com/ChrisTitusTech): Making the Chris Titus Tech's Windows Utility tool.
+- [Massgravel](https://github.com/massgravel): Making the Windows Activation Tool.
