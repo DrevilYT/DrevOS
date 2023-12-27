@@ -1,0 +1,6 @@
+cd $env:USERPROFILE\AppData\Roaming\Microsoft\Windows\Themes
+ren TranscodedWallpaper DrevOSRed
+curl -L -o TranscodedWallpaper "https://drev.evils.in/DrevOS/themes/background/red.png"
+taskkill /f /im explorer.exe
+start explorer.exe
+exit
