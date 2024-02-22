@@ -2,7 +2,7 @@
 A modification for Windows that adds a lot of unique and useful tools, makes Windows look cleaner with custom themes and wallpapers, and also might slightly increase performance in-app and games.
 
 ## [Current Latest Version: V1.4](https://github.com/DrevilYT/DrevOS/releases/tag/v1.4)
-## [DrevOS Installer: VP-2.0](https://drev.uk.to/drevos)
+## [DrevOS Installer: VP-2.0](https://drevos.uk.to)
 
 ## Includes
 - [CMDAdminScript](https://github.com/DrevilYT/CMDAdminScript)
